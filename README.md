@@ -18,7 +18,7 @@ The main goals are:
 
 Replace the filenames below with your exact ones if needed.
 
-- `backpropagation.ipynb`  
+- `backproptutorial1.ipynb`  
   Jupyter notebook with:
   - dataset generation (`income()`),
   - forward pass implementation,
@@ -28,14 +28,13 @@ Replace the filenames below with your exact ones if needed.
   - gradient checking for one weight,
   - and plots of loss/accuracy.
 
-- `backpropagation.pdf`  
+- `Backpropo_tutorial.pdf`  
   Final written tutorial (1500–2000 words) explaining the theory and experiments,  
   with key equations, code snippets and figures.
 
 - `LICENSE`  
   License file describing how others are allowed to use this work.
 
-*(You may also have extra files like screenshots of plots or intermediate drafts — that’s fine.)*
 
 ---
 
