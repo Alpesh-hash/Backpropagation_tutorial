@@ -18,7 +18,7 @@ The main goals are:
 
 Replace the filenames below with your exact ones if needed.
 
-- `backprop_credit_risk_structured_with_markdown.ipynb`  
+- `backpropagation.ipynb`  
   Jupyter notebook with:
   - dataset generation (`income()`),
   - forward pass implementation,
@@ -31,9 +31,6 @@ Replace the filenames below with your exact ones if needed.
 - `backprop_tutorial_updated_with_plots_and_code.pdf`  
   Final written tutorial (1500–2000 words) explaining the theory and experiments,  
   with key equations, code snippets and figures.
-
-- `backprop_tutorial_updated_with_plots_and_code.docx`  
-  Editable Word version of the tutorial.
 
 - `LICENSE`  
   License file describing how others are allowed to use this work.
