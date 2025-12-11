@@ -28,7 +28,7 @@ Replace the filenames below with your exact ones if needed.
   - gradient checking for one weight,
   - and plots of loss/accuracy.
 
-- `backprop_tutorial_updated_with_plots_and_code.pdf`  
+- `backpropagation.pdf`  
   Final written tutorial (1500–2000 words) explaining the theory and experiments,  
   with key equations, code snippets and figures.
 
