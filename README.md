@@ -1,7 +1,6 @@
 # Backpropagation_tutorial
 Backpropagation tutorial
-# Backpropagation Demystified: From Theory to Neural Network Training in Practice
-
+# Backpropagation: The Learning Engine of Neural Networks
 This repository contains the code and report for my tutorial:
 
 > **“What are the roles of forward propagation and backpropagation, and how do they work together to make neural networks learn?”**
